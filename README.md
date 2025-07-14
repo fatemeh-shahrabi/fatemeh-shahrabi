@@ -6,9 +6,9 @@ Motivated student developer with experience in building modern Laravel-based web
 
 ## 🔧 Skills
 
-- **Web Development**: Laravel, Livewire, Tailwind CSS, Alpine.js, HTML/CSS, JavaScript
-- **AI & Data**: Python, OpenAI API, LangChain, Semantic Search (Pinecone), Prompt Engineering
-- **Tools & Workflow**: Git, GitHub, VS Code, Figma, MySQL, REST APIs
+- **Web Development**: HTML, CSS, JavaScript, Tailwind CSS, Bootstrap
+- **Programming Languages**: Python, C++, PHP
+- **‌Frameworks & Tools**: Laravel, WordPress, Flask
 
 ## 📁 Notable Projects
 
