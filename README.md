@@ -1,41 +1,21 @@
 # Fatemeh Shahrabi Farahani
 
-🎓 Junior Web Developer & AI Enthusiast  
-📍 Tehran, Iran  
-🚀 Passionate about building AI tools and modern web apps  
+**Junior Web Developer** | **AI Student**
 
----
+Motivated student developer with experience in building modern Laravel-based web applications, designing AI-powered tools, and contributing to real-world startup projects. Passionate about writing clean, maintainable code and solving meaningful problems through technology.
 
-## 🧠 About Me  
-I’m a student deeply involved in web development and artificial intelligence. I love turning ideas into real products using technologies like Laravel, Livewire, Tailwind, Python, and OpenAI APIs.  
-I'm currently building my portfolio and collaborating on open-source and student-led projects.
+## 🔧 Skills
 
----
+- **Web Development**: Laravel, Livewire, Tailwind CSS, Alpine.js, HTML/CSS, JavaScript
+- **AI & Data**: Python, OpenAI API, LangChain, Semantic Search (Pinecone), Prompt Engineering
+- **Tools & Workflow**: Git, GitHub, VS Code, Figma, MySQL, REST APIs
 
-## 🔧 Tech Stack  
-- **Languages:** PHP, Python, JavaScript  
-- **Frameworks:** Laravel, Livewire, Tailwind CSS  
-- **Tools:** Git, GitHub, VS Code, Figma, MySQL  
-- **AI:** OpenAI API, LangChain, Prompt Engineering  
+## 📁 Notable Projects
 
----
+- **Kolehbar** – Laravel Livewire travel planning app with location-based features  
+- **Khodnevis** – AI note-taking assistant converting speech to structured summaries  
+- **PodGasht** – Podcast search tool using GPT and vector embeddings for semantic search
 
-## 📂 Projects  
-- **Kolehbar:** A smart travel planner using Laravel + Livewire  
-- **Khodnevis:** AI-powered audio-to-summary assistant  
-- **Podgasht:** Podcast search engine with semantic search (Laravel + GPT + Embeddings)
+## 📈 GitHub Activity Snake
 
-More coming soon…
-
----
-
-## 📈 GitHub Activity
-
-![GitHub Snake animation](https://raw.githubusercontent.com/fatemeh-shahrabi/fatemeh-shahrabi/output/github-contribution-grid-snake.svg)
-
----
-
-## 💬 Let’s Connect  
-Feel free to collaborate on a project or just say hi!  
-📧 [fatemeh.shahrabifarahanii@gmail.com](mailto:fatemeh.shahrabifarahanii@gmail.com)
-
+![snake animation](https://github.com/fatemeh-shahrabi/fatemeh-shahrabi/raw/output/github-contribution-grid-snake.svg)
