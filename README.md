@@ -15,7 +15,3 @@ Motivated student developer with experience in building modern Laravel-based web
 - **Kolehbar** – Laravel Livewire travel planning app with location-based features  
 - **Khodnevis** – AI note-taking assistant converting speech to structured summaries  
 - **PodGasht** – Podcast search tool using GPT and vector embeddings for semantic search
-
-## 📈 GitHub Activity Snake
-
-![snake animation](https://github.com/fatemeh-shahrabi/fatemeh-shahrabi/raw/output/github-contribution-grid-snake.svg)
