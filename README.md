@@ -1,4 +1,4 @@
-**Junior Web Developer** | **AI Student**  
+# **Junior Web Developer** | **AI Student**  
 
 ---
 
