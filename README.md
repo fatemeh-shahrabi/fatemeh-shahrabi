@@ -8,6 +8,12 @@ Motivated student developer with experience in building modern Laravel-based web
 
 ---
 
+## Contribution Snake
+
+![snake gif](https://github.com/fatemeh-shahrabi/snk/blob/output/github-contribution-grid-snake.svg)
+
+---
+
 ## Skills
 
 ### Web Development
@@ -43,4 +49,3 @@ Motivated student developer with experience in building modern Laravel-based web
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/fatemeh-shahrabi-farahani)
 [![Gmail](https://img.shields.io/badge/-fatemeh.shahrabifarahanii@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:fatemeh.shahrabifarahanii@gmail.com)
-
