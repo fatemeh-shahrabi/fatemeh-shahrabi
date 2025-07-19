@@ -42,7 +42,8 @@ Motivated student developer with experience in building modern Laravel-based web
 - **🗺️ Kolehbar** – Laravel Livewire travel planning app with location-based features and admin dashboard  
 - **📝 Khodnevis** – AI note-taking assistant converting speech to structured summaries using Whisper + GPT  
 - **📚 Grammagic** – 21-day English grammar web tutor with AI-evaluated quizzes using GPT
-
+- **🎓 Rubin** – AI-powered student data assistant for CSV processing, reporting, and chatbot queries
+  
 ---
 
 ## Connect With Me
