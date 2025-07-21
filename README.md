@@ -43,14 +43,14 @@ initiatives.
 
 ## Notable Projects
 
-- **🗺️ Kolehbar** – Laravel Livewire travel planning app with location-based features and admin dashboard  
-- **📝 Khodnevis** – AI note-taking assistant converting speech to structured summaries using Whisper + GPT  
-- **📚 Grammagic** – 21-day English grammar web tutor with AI-evaluated quizzes using GPT
-- **🎓 Rubin** – AI-powered student data assistant for CSV processing, reporting, and chatbot queries
+- **🗺️ [Kolehbar](https://github.com/fatemeh-shahrabi/KolehBar)** – Laravel Livewire travel planning app with location-based features and admin dashboard  
+- **📝 [Khodnevis](https://github.com/fatemeh-shahrabi/Khodnevis)** – AI note-taking assistant converting speech to structured summaries using Whisper + GPT  
+- **📚 [Grammagic](https://github.com/fatemeh-shahrabi/Grammagic)** – 21-day English grammar web tutor with AI-evaluated quizzes using GPT  
+- **🎓 [Rubin](https://github.com/fatemeh-shahrabi/Rubin)** – AI-powered student data assistant for CSV processing, reporting, and chatbot queries
   
 ---
 
 ## Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/fatemeh-shahrabi-farahani)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/fatemeh-shahrabi-farahani)  
 [![Gmail](https://img.shields.io/badge/-fatemeh.shahrabifarahanii@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:fatemeh.shahrabifarahanii@gmail.com)
