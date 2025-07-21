@@ -1,6 +1,9 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=800&color=F7931E&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Fatemeh+Shahrabi!;Junior+Web+Developer+%7C+AI+Student;Passionate+about+Tech+%26+Education;Let's+build+impactful+tools+together+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" />
+  <a href="https://github.com/fatemeh-shahrabi">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F57C00&center=true&vCenter=true&multiline=true&width=435&lines=Fatemeh+is+here...;Tinkering+with+code+and+ideas+✨;Trying+to+build+something+that+matters." alt="Typing SVG" />
+  </a>
 </p>
+
 
 ---
 
