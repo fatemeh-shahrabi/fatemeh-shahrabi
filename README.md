@@ -4,7 +4,9 @@
 
 ## About Me
 
-Motivated student developer with experience in building modern Laravel-based web applications, designing AI-powered tools, and contributing to real-world startup projects. Passionate about writing clean, maintainable code and solving meaningful problems through technology.
+Motivated student with hands-on experience in web development, AI tools, and startup environments. Skilled in Laravel, Python, and C++,
+with a strong foundation in teamwork, problem-solving, and innovation. Passionate about entrepreneurship, hackathons, and impactful tech
+initiatives.
 
 ---
 
