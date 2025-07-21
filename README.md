@@ -6,34 +6,9 @@
 
 ## About Me
 
-I'm Fatemeh, a passionate student developer fascinated by the intersection of web development and AI.  
-With hands-on experience in Laravel, Python, and C++, I enjoy crafting clean code and building innovative solutions.  
-Currently focused on entrepreneurship, hackathons, and contributing to impactful projects.
-
----
-
-## Skills
-
-### Frontend
-![HTML5](...) ![CSS3](...) ![JavaScript](...) ![Tailwind CSS](...) ![Bootstrap](...)
-
-### Backend
-![PHP](...) ![Laravel](...) ![Flask](...)
-
-### Programming Languages
-![Python](...) ![C++](...)
-
-### Tools & Platforms
-![Git](...) ![GitHub](...) ![WordPress](...)
-
----
-
-## Notable Projects
-
-- **🗺️ [Kolehbar](https://github.com/yourlink/kolehbar)** – Laravel Livewire travel planning app with location features and admin panel.
-- **📝 [Khodnevis](https://github.com/yourlink/khodnevis)** – AI-powered note-taking assistant converting speech to structured summaries.
-- **📚 [Grammagic](https://github.com/yourlink/grammagic)** – AI-driven English grammar tutor with quizzes evaluated by GPT.
-- **🎓 [Rubin](https://github.com/yourlink/rubin)** – Student data assistant for CSV processing, reporting, and chatbot queries.
+Motivated student with hands-on experience in web development, AI tools, and startup environments. Skilled in Laravel, Python, and C++,
+with a strong foundation in teamwork, problem-solving, and innovation. Passionate about entrepreneurship, hackathons, and impactful tech
+initiatives.
 
 ---
 
@@ -43,10 +18,39 @@ Currently focused on entrepreneurship, hackathons, and contributing to impactful
 
 ---
 
+## Skills
+
+### Web Development
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=fff)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap)
+
+### Programming Languages
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=fff)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=fff)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2b%2b&logoColor=fff)
+
+### Frameworks & Tools
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=fff)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask)
+![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=wordpress&logoColor=fff)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=fff)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
+
+---
+
+## Notable Projects
+
+- **🗺️ Kolehbar** – Laravel Livewire travel planning app with location-based features and admin dashboard  
+- **📝 Khodnevis** – AI note-taking assistant converting speech to structured summaries using Whisper + GPT  
+- **📚 Grammagic** – 21-day English grammar web tutor with AI-evaluated quizzes using GPT
+- **🎓 Rubin** – AI-powered student data assistant for CSV processing, reporting, and chatbot queries
+  
+---
+
 ## Connect With Me
 
-[![LinkedIn](...)](https://linkedin.com/in/fatemeh-shahrabi-farahani)  
-[![Email](...)](mailto:fatemeh.shahrabifarahanii@gmail.com)
-
-Feel free to reach out for collaborations or just to say hi!
-
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/fatemeh-shahrabi-farahani)
+[![Gmail](https://img.shields.io/badge/-fatemeh.shahrabifarahanii@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:fatemeh.shahrabifarahanii@gmail.com)
