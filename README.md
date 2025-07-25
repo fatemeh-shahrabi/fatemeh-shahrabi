@@ -12,12 +12,6 @@ initiatives.
 
 ---
 
-## Contribution Snake
-
-![snake gif](https://github.com/fatemeh-shahrabi/snk/blob/manual-run-output/only-svg/github-contribution-grid-snake.svg)
-
----
-
 ## Skills
 
 ### Web Development
