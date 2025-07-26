@@ -1,37 +1,27 @@
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=1000&color=10B981&center=true&vCenter=true&width=500&lines=Fatemeh+is+here...;Tinkering+with+code+and+ideas+%E2%9C%A8;Trying+to+build+something+that+matters." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=1000&color=10B981&center=true&vCenter=true&width=500&lines=Fatemeh+is+here...;Tinkering+with+code+and+ideas+%E2%9C%A8;Trying+to+build+something+that+matters." alt="Typing SVG" />
 </p>
 
 ---
 
 ## About Me
 
-Motivated student with hands-on experience in web development, AI tools, and startup environments. Skilled in Laravel, Python, and C++,
-with a strong foundation in teamwork, problem-solving, and innovation. Passionate about entrepreneurship, hackathons, and impactful tech
-initiatives.
+Motivated student with hands-on experience in web development, AI tools, and startup environments.  
+Skilled in Laravel, Python, and C++ with a strong foundation in teamwork, problem-solving, and innovation.  
+Passionate about entrepreneurship, hackathons, and building tech that matters.
 
 ---
 
 ## Skills
 
-### Web Development
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=fff)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=fff)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=fff)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=fff)
+### Web Development  
+<img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap" height="40" />
 
-### Programming Languages
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=fff)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=fff)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2b%2b&logoColor=fff)
+### Programming Languages  
+<img src="https://skillicons.dev/icons?i=python,php,cpp" height="40" />
 
-### Frameworks & Tools
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=fff)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=fff)
-![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=wordpress&logoColor=fff)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=fff)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=fff)
+### Frameworks & Tools  
+<img src="https://skillicons.dev/icons?i=laravel,flask,wordpress,git,github" height="40" />
 
 ---
 
@@ -41,10 +31,17 @@ initiatives.
 - **📝 [Khodnevis](https://github.com/fatemeh-shahrabi/Khodnevis)** – AI note-taking assistant converting speech to structured summaries using Whisper + GPT  
 - **📚 [Grammagic](https://github.com/fatemeh-shahrabi/Grammagic)** – 21-day English grammar web tutor with AI-evaluated quizzes using GPT  
 - **🎓 [Rubin](https://github.com/fatemeh-shahrabi/Rubin)** – AI-powered student data assistant for CSV processing, reporting, and chatbot queries
-  
+
 ---
 
 ## Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/fatemeh-shahrabi-farahani)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/fatemeh-shahrabi-farahani)  
 [![Gmail](https://img.shields.io/badge/-fatemeh.shahrabifarahanii@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:fatemeh.shahrabifarahanii@gmail.com)
+
+---
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=laravel,tailwind,python,gpt,github" height="30" />
+</p>
+<p align="center"><i>Trying to find structure in the chaos — one project at a time.</i></p>
