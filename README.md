@@ -31,6 +31,7 @@ initiatives.
 - **📝 [Khodnevis](https://github.com/fatemeh-shahrabi/Khodnevis)** – AI note-taking assistant converting speech to structured summaries using Whisper + GPT  
 - **📚 [Grammagic](https://github.com/fatemeh-shahrabi/Grammagic)** – 21-day English grammar web tutor with AI-evaluated quizzes using GPT  
 - **🎓 [Rubin](https://github.com/fatemeh-shahrabi/Rubin)** – AI-powered student data assistant for CSV processing, reporting, and chatbot queries
+- **⌛ [MindTap](https://github.com/fatemeh-shahrabi/MindTap)** – Chrome extension to boost focus by limiting distractions on sites like YouTube & Instagram  
   
 ---
 
